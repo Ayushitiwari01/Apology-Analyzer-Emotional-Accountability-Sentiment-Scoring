@@ -2,6 +2,9 @@
 
 A Python-based **NLP tool** that evaluates apology statements by measuring their **Emotional Accountability Score (EAS)**, **sentiment polarity**, and **interpretation level**. It also provides **visual insights** with **word clouds, pie charts, and bar charts**.
 
+Most sentiment models just score whether the tone is positive or negative. But when analyzing apologies especially public or corporate ones the real question is whether the speaker is taking ownership of harm. I created a metric called EAS - Emotional Accountability Score - that uses linguistic features like personal pronouns, emotion intensity, and passive language to measure this.
+It helps detect if an apology is emotionally mature or performative
+
 ---
 
 ## 🚀 Features
