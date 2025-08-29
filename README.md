@@ -18,15 +18,15 @@ A Python-based **NLP tool** that evaluates apology statements by measuring their
 
 ### 🔹 Word Cloud
 
-Shows the most frequent words across all apologies.
+![Word Cloud](https://github.com/Ayushitiwari01/Apology-Analyzer-Emotional-Accountability-Sentiment-Scoring/blob/8381435efb81965b23b9d6090f2b68e2e47d8049/images/Screenshot%202025-08-29%20114643.png)
 
 ### 🔹 Pie Chart
 
-Distribution of **accountability levels (EAS-based)**
+![Pie Chart](https://github.com/Ayushitiwari01/Apology-Analyzer-Emotional-Accountability-Sentiment-Scoring/blob/8381435efb81965b23b9d6090f2b68e2e47d8049/images/Screenshot%202025-08-29%20114750.png)
 
 ### 🔹 Bar Chart
 
-Comparison of **sentiment categories**
+![Bar Chart](https://github.com/Ayushitiwari01/Apology-Analyzer-Emotional-Accountability-Sentiment-Scoring/blob/8381435efb81965b23b9d6090f2b68e2e47d8049/images/Screenshot%202025-08-29%20114808.png)
 
 ---
 
